@@ -1,6 +1,6 @@
 # Karandeep-Singh
-<h1 align="center">Hi 👋, I'm Karan Talwar</h1>
-<h3 align="center">A Deep Learning and Data Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Karandee Singh</h1>
+<h3 align="center">Data Science| Machine Learning| Big Data</h3>
 
 <p align="left"> <a href="https://twitter.com/karanta89621742" target="blank"><img src="https://img.shields.io/twitter/follow/karanta89621742?logo=twitter&style=for-the-badge" alt="karanta89621742" /></a> </p>
 
