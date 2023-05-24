@@ -1,4 +1,4 @@
-# Karandeep-Singh
+
 <h1 align="center">Hi , I am Karandeep Singh.</h1>
 <h3 align="center">Data Science| Machine Learning | Big Data</h3>
 
