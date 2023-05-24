@@ -1,22 +1,15 @@
 # Karandeep-Singh
-<h1 align="center">Hi 👋, I'm Karandee Singh</h1>
-<h3 align="center">Data Science| Machine Learning| Big Data</h3>
+<h1 align="center">Hi , I am Karandeep Singh.</h1>
+<h3 align="center">Data Science| Machine Learning | Big Data</h3>
 
-<p align="left"> <a href="https://twitter.com/karanta89621742" target="blank"><img src="https://img.shields.io/twitter/follow/karanta89621742?logo=twitter&style=for-the-badge" alt="karanta89621742" /></a> </p>
+- 📧 Reach me on **karandeeps2k@gmail.com**
 
 - 🔭 I’m currently working on [implementing the research paper "Learning Enriched Features for Real Image Restoration and Enhancement".](https://arxiv.org/abs/2003.06792v2)
 
 - 🌱 I’m currently learning and improving in **Tensorflow, Pytorch, Azure, mongoDB, mariaDB, Towhee and Pytesseract(OCR).**
 
-- 👯 I’m looking to collaborate on **any open source project in fields like deep learning and data science.**
 
-- 💬 Ask me about **any of my projects that you might not understand or needs help with and please provide your opinion on how can improve them.**
-
-- 📫 How to reach me **sc.talwar2001@gmail.com**
-
-- ⚡ Fun fact **I like anime, mathematics, chess, machine learning and FPS games.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Catch me on:</h3>
 <p align="left">
 <a href="https://twitter.com/nerdking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nerdking" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karan-talwar-8aa913195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-talwar-8aa913195" height="30" width="40" /></a>
