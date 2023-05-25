@@ -1,6 +1,6 @@
 ![Github Cover](https://github.com/iamkarandeepsingh/Karandeep-Singh/assets/44429049/9ea2b0c0-28f3-41a8-8b69-5d391571194e)
 
-<h1 align="center">Hi , I am Karandeep Singh.</h1>
+<h1 align="center">👋🏻 Hi , I am Karandeep Singh.</h1>
 <h3 align="center">Data Science| Machine Learning | Big Data</h3>
 
 - 📧 Reach me on **karandeeps2k@gmail.com**
