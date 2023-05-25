@@ -1,12 +1,13 @@
+![Github Cover](https://github.com/iamkarandeepsingh/Karandeep-Singh/assets/44429049/9ea2b0c0-28f3-41a8-8b69-5d391571194e)
 
 <h1 align="center">Hi , I am Karandeep Singh.</h1>
 <h3 align="center">Data Science| Machine Learning | Big Data</h3>
 
 - 📧 Reach me on **karandeeps2k@gmail.com**
 
-- 🔭 I’m currently working on [implementing the research paper "Learning Enriched Features for Real Image Restoration and Enhancement".](https://arxiv.org/abs/2003.06792v2)
+- 🔭 I’m currently exploring new depths of machine learning models and its applications.
 
-- 🌱 I’m currently learning and improving in **Tensorflow, Pytorch, Azure, mongoDB, mariaDB, Towhee and Pytesseract(OCR).**
+- 🌱 I love improving my skills in **Azure, Tensorflow, Pytorch, Flask, mongoDB, Transformers**
 
 
 <h3 align="left">Catch me on:</h3>
