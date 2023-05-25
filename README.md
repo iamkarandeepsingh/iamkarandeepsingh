@@ -7,20 +7,12 @@
 
 - 🔭 I’m currently exploring new depths of machine learning models and its applications.
 
-- 🌱 I love improving my skills in **Azure, Tensorflow, Pytorch, Flask, mongoDB, Transformers.**
+- 🌱 I love improving my skills on **Azure, Tensorflow, Pytorch, Flask, mongoDB, Transformers.**
 
 
 <h3 align="left">Catch me on:</h3>
 <p align="left">
-<a href="https://twitter.com/nerdking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nerdking" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karan-talwar-8aa913195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-talwar-8aa913195" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/karan talwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karan talwar" height="30" width="40" /></a>
-<a href="https://kaggle.com/karan talwar 13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karan talwar 13" height="30" width="40" /></a>
-<a href="https://fb.com/karan talwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karan talwar" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_knight_1975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_knight_1975" height="30" width="40" /></a>
-<a href="https://medium.com/@sc.talwar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sc.talwar2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sc_talwar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sc_talwar2001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karan_talwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan_talwar" height="30" width="40" /></a>
 <a href="https://discord.gg/Karan Talwar#0646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Karan Talwar#0646" height="30" width="40" /></a>
 </p>
 
