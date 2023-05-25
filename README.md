@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring new depths of machine learning models and its applications.
 
-- 🌱 I love improving my skills in **Azure, Tensorflow, Pytorch, Flask, mongoDB, Transformers**
+- 🌱 I love improving my skills in **Azure, Tensorflow, Pytorch, Flask, mongoDB, Transformers.**
 
 
 <h3 align="left">Catch me on:</h3>
