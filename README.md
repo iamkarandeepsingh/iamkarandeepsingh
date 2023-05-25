@@ -16,8 +16,8 @@
 <p align="center"> 
 <h3 align="left"> Languages</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a></p>
-<a href="https://en.wikipedia.org/wiki/SQL"> <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" width="35" height="35"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a>
+<a href="https://en.wikipedia.org/wiki/SQL"> <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" width="35" height="35"/> </a> </p>
 
 <h2 align="center">📈Statistics:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kt2001&show_icons=true&locale=en&layout=compact" alt="kt2001" /></p>
