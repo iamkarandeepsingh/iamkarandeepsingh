@@ -1,4 +1,5 @@
-![Github Cover](https://github.com/iamkarandeepsingh/Karandeep-Singh/assets/44429049/9ea2b0c0-28f3-41a8-8b69-5d391571194e)
+![Github Cover](https://github.com/iamkarandeepsingh/Karandeep-Singh/assets/44429049/5cf12411-4cf6-454e-96e0-65c99c01295a)
+
 
 <h1 align="center">👋🏻 Hi , I am Karandeep Singh.</h1>
 <h3 align="center">Data Science| Machine Learning | Big Data</h3>
