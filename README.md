@@ -51,8 +51,8 @@
 </p>
 
 <h2 align="center">📈Stats for nerds:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kt2001&show_icons=true&locale=en&layout=compact" alt="kt2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkarandeepsingh_icons=true&locale=en&layout=compact" alt="kt2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kt2001&show_icons=true&locale=en" alt="kt2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarandeepsingh&show_icons=true&locale=en" alt="kt2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kt2001&" alt="kt2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarandeepsingh&" alt="kt2001" /></p>
