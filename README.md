@@ -54,6 +54,6 @@
 <p align="center">
   <b>GitHub Stats:</b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarandeepsingh" alt="GitHub Stats" /> <br/><br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamkarandeepsingh&show_icons=true&locale=en" alt="iamkarandeepsingh" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamkarandeepsingh&show_icons=true&locale=en" alt="iamkarandeepsingh" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarandeepsingh&layout=compact" alt="Most Used Languages"/>
 
