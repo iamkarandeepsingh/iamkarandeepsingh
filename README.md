@@ -15,7 +15,7 @@
 
 <h2 align="center">💻Languages and Tools:</h2>
 <p align="center"> 
-<h3 align="left"> Languages</h2>
+<h3 align="center"> Languages</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a>
 <a href="https://en.wikipedia.org/wiki/SQL"> <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" width="37" height="37"/> </a> 
