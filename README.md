@@ -55,5 +55,5 @@
   <b>GitHub Stats:</b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarandeepsingh" alt="GitHub Stats" /> <br/><br/>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamkarandeepsingh&show_icons=true&locale=en" alt="iamkarandeepsingh" />
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarandeepsingh&layout=compact" alt="Most Used Languages"/>
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarandeepsingh&layout=compact" alt="Most Used Languages"/>
 
