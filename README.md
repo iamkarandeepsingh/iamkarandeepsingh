@@ -25,7 +25,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/about.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R programming" width="35" height="35"/> </a>
 
-<h3 align="left"> Tools</h2>
+<h3 align="center"> Tools</h2>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
 <a href="https://www.eclipse.org/ide/"> <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="Eclipse" width="35" height="35"/> </a> 
@@ -35,7 +35,7 @@
 <a href="https://posit.co/download/rstudio-desktop/"> <img src="https://marketplace-assets.digitalocean.com/logos/rstudio-20-04.svg" alt="R Studio" width="35" height="35"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/> </a>
 
-<h3 align="left"> Frameworks/Libraries</h2>
+<h3 align="center"> Frameworks/Libraries</h2>
 <a href="https://getbootstrap.com/"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootsrtap" width="35" height="35"/> </a>
 <a href="https://nodejs.org/en"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="NodeJs" width="35" height="35"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/> </a>
