@@ -1,4 +1,5 @@
-![Github Cover](https://github.com/iamkarandeepsingh/Karandeep-Singh/assets/44429049/5cf12411-4cf6-454e-96e0-65c99c01295a)
+![Github Cover](https://github.com/iamkarandeepsingh/Karandeep-Singh/assets/44429049/f54efa4c-7a2a-4589-b234-ae82eb22c762)
+
 
 
 <h1 align="center">👋🏻 Hi , I am Karandeep Singh.</h1>
