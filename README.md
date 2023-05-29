@@ -38,6 +38,8 @@
 <a href="https://www.spyder-ide.org/"> <img src="https://www.i2tutorials.com/wp-content/media/2020/05/HOW-TO-CODE-IN-PYTHON-USING-SPYDER-6i2tutorials.png" alt="Spyder IDE" width="35" height="35"/> </a>
 <a href="https://code.visualstudio.com/"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS Code" width="35" height="35"/> </a>
 <a href="https://posit.co/download/rstudio-desktop/"> <img src="https://marketplace-assets.digitalocean.com/logos/rstudio-20-04.svg" alt="R Studio" width="35" height="35"/> </a>
+<a href="https://www.figma.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="35" height="35"/> </a>
+<a href="https://www.3ds.com/products-services/catia/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" alt="DS Catia" width="35" height="35"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/> </a> </p>
 
 <h3 align="center"> Frameworks/Libraries</h2>
