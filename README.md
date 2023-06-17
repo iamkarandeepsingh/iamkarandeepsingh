@@ -1,4 +1,5 @@
-![Github Cover](https://github.com/iamkarandeepsingh/Karandeep-Singh/assets/44429049/f54efa4c-7a2a-4589-b234-ae82eb22c762)
+![GitHub Cover](https://github.com/iamkarandeepsingh/iamkarandeepsingh/assets/44429049/2d4ff3b4-7bd3-412b-9f2d-630a5cc4007a)
+
 
 
 
