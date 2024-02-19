@@ -33,7 +33,6 @@
 <a href="https://www.cygwin.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cygwin_logo.svg/1200px-Cygwin_logo.svg.png" alt="cygwin terminal" width="35" height="35"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a>
-<a href="https://www.postman.com/product/rest-client/" target="_blank" rel="noreferrer"> <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" alt="postmanAPI" width="35" height="35"/> </a>
 <a href="https://octave.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" alt="GNU Octave" width="35" height="35"/> </a>
 <a href="https://www.eclipse.org/ide/"> <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="Eclipse" width="35" height="35"/> </a> 
 <a href="https://jupyter.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="35" height="35"/> </a>
