@@ -1,4 +1,4 @@
-![GitHub Cover](https://github.com/iamkarandeepsingh/iamkarandeepsingh/assets/44429049/2d4ff3b4-7bd3-412b-9f2d-630a5cc4007a)
+
 ![GitHub Cover](https://github.com/user-attachments/assets/990ebdc2-89cf-4627-acf4-43ffed80df53)
 
 
