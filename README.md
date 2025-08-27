@@ -1,5 +1,6 @@
 
-![GitHub Cover](https://github.com/user-attachments/assets/990ebdc2-89cf-4627-acf4-43ffed80df53) https://github.com/iamkarandeepsingh/iamkarandeepsingh/blob/fd1cd266113200eb8fdabf5f4bd2ac4a853fa8b1/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png
+![GitHub Cover](https://github.com/user-attachments/assets/990ebdc2-89cf-4627-acf4-43ffed80df53) (https://github.com/iamkarandeepsingh/iamkarandeepsingh/blob/fd1cd266113200eb8fdabf5f4bd2ac4a853fa8b1/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 
 
 
