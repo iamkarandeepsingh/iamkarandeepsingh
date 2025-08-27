@@ -6,7 +6,7 @@
 
 
 <h1 align="center">👋🏻 Hi , I am Karandeep Singh.</h1>
-<h3 align="center">Data Mining and Machine Learning</h3>
+<h3 align="center">AI and Machine Learning</h3>
 
 - 📧 Reach me on **karandeeps2k@gmail.com**
 
