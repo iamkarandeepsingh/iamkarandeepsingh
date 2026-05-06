@@ -4,9 +4,9 @@
 <h3 align="center">Generative AI | Prompt Engineering | AI Engineering | RAG & Agentic Workflows</h3>
 
 <p align="center">
-  <a href="mailto:karandeeps2k@gmail.com">Email</a> •
-  <a href="https://github.com/iamkarandeepsingh">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="mailto:karandeeps2k@gmail.com"><img src="https://img.shields.io/badge/Email-karandeeps2k%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/iamkarandeepsingh"><img src="https://img.shields.io/badge/GitHub-iamkarandeepsingh-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Karandeep%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -68,12 +68,45 @@ A data analysis workflow for cleaning, sampling, undersampling, and preparing we
 
 ## Technical Toolkit
 
-**Languages & Data:** Python, SQL, Pandas, NumPy  
-**AI/ML:** RAG, Prompt Engineering, Transformers, Hugging Face, TensorFlow, PyTorch, scikit-learn  
-**LLM Frameworks:** LangChain, LlamaIndex, LangGraph-style architectures  
-**Backend & Apps:** FastAPI, Flask, React, TypeScript, REST APIs  
-**Cloud & Platforms:** Azure, Azure OpenAI, GCP, Google AI Studio  
-**Workflow Tools:** n8n, JIRA, Cursor, Codex, Claude Code
+**Languages & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**AI/ML**  
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**LLM Frameworks**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph--style%20Architectures-374151?style=flat)
+
+**Backend & Apps**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-374151?style=flat)
+
+**Cloud & Platforms**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+
+**Workflow Tools**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111827?style=flat)
+![Codex](https://img.shields.io/badge/Codex-111827?style=flat)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat)
 
 ---
 
