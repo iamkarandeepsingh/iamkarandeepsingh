@@ -32,7 +32,7 @@ I am currently open to roles in **GenAI Engineering**, **Prompt Engineering**, *
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 ### [AI Inventory Management System](https://github.com/iamkarandeepsingh/Inventory-Management-System)
 
