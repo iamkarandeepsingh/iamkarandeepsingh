@@ -1,4 +1,4 @@
-![GitHub Cover](https://github.com/iamkarandeepsingh/iamkarandeepsingh/blob/fd1cd266113200eb8fdabf5f4bd2ac4a853fa8b1/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
+<img width="2172" height="724" alt="Karandeep Singh AI Portfolio Banner" src="https://github.com/user-attachments/assets/8b8136b7-6c23-40b5-b716-68d470c27da7" />
 
 <h1 align="center">Karandeep Singh</h1>
 <h3 align="center">Generative AI | Prompt Engineering | AI Engineering | RAG & Agentic Workflows</h3>
